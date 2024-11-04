@@ -1,0 +1,3 @@
+chmod +x script.sh
+ls -l script.sh
+-rwxr-xr-x 1 user group 1234 Oct 24 12:00 script.sh
